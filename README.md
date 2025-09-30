@@ -28,6 +28,7 @@ Edit an Event Page
 
 
 Delete an Event Page
+
 ![Alt text](6.DeletePage.PNG)
 
 
