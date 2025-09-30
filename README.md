@@ -6,4 +6,4 @@
 
 # Laravel Pages
 
-![Alt text](1.WelcomePage.png)
+![Alt text](1.WelcomePage.PNG)
