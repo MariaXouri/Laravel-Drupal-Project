@@ -46,7 +46,8 @@ Drupal Content Type creation instructions:
 # Create a content type:
 Structure -> Content Types -> Add Content Type -> Article -> Save
 
-[Image]
+![Alt text](ContentTypes 1.PNG)
+
 [Image]
 
 Field managing:
