@@ -35,7 +35,7 @@ Delete an Event Page
 
 
 
-# Drupal Part 1
+# Drupal Project - Part 1
 
 # Installation Instructions
 
@@ -75,6 +75,14 @@ Structue -> Views -> Add View
 ![Alt text](Views4.PNG)
 ![Alt text](Views5.PNG)
 ![Alt text](Views7.PNG)
+
+# Drupal Project - Part 2
+
+Front-News Page (/front-news)
+
+![Alt text](front-news1.PNG)
+
+
 
 
 
