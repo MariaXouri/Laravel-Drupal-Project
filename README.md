@@ -1,63 +1,59 @@
 # Laravel-Drupal-Project
 
- ## Event Management System - Laravel 12 
+## Event Management System - Laravel 12 
  
- # News and Events Portal - Drupal 
+### Laravel Pages
 
-# Laravel Pages
-Welcome Page
+#### Welcome Page
 ![Alt text](1.WelcomePage.PNG)
 
 
-Events Page
+#### Events Page
 ![Alt text](2.EventsPage.PNG)
 
 
-Create an Event Page
+#### Create an Event Page
 ![Alt text](3.CreatePage.PNG)
 
 
-Show an Event Page
+#### Show an Event Page
 ![Alt text](4.ShowPage.PNG)
 
 
 
-Edit an Event Page
+#### Edit an Event Page
 ![Alt text](5.EditPage.PNG)
 
 
 
-Delete an Event Page
-
+#### Delete an Event Page
 ![Alt text](6.DeletePage.PNG)
 
 
+## News and Events Portal - Drupal 
+
+### Drupal Project - Part 1
+
+#### Installation Instructions
+
+#### Content Type / Vocabulary / Views
 
 
-
-# Drupal Project - Part 1
-
-# Installation Instructions
-
-# Content Type / Vocabulary / Views
-
-Drupal Content Type creation instructions:
-
-# Create a content type:
+##### Create a content type:
 Structure -> Content Types -> Add Content Type -> Article -> Save
 
 ![Alt text](ContentTypes1.PNG)
 ![Alt text](Content2.PNG)
 
 
-Field managing:
+##### Field managing:
 
 Structure -> Content types -> Article -> Edit 
 
 
 ![Alt text](ManageFields.PNG)
 
-# Create vocabulary:
+##### Create vocabulary:
 
 Structure -> Taxonomy -> Add Vocabulary
 
@@ -65,7 +61,7 @@ Structure -> Taxonomy -> Add Vocabulary
 ![Alt text](Vocabulary2.PNG)
 
 
-# Create Views
+##### Create Views
 
 Structue -> Views -> Add View 
 
@@ -76,14 +72,14 @@ Structue -> Views -> Add View
 ![Alt text](Views5.PNG)
 ![Alt text](Views7.PNG)
 
-# Drupal Project - Part 2
+### Drupal Project - Part 2
 
 Front-News Page (/front-news)
 
 ![Alt text](front-news1.PNG)
 
 
-# Drupal Custom Model Creation
+### Drupal Custom Model Creation
 
 
 
