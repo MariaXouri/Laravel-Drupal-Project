@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function front_news_theme() {
+  return [
+    'front_news_page' => [
+      'variables' => [
+        'featured' => NULL,
+      ],
+      'template' => 'front-news-page',
+    ],
+  ];
+}

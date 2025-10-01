@@ -1,0 +1,7 @@
+front_news.front_page:
+  path: '/front-news'
+  defaults:
+    _controller: '\Drupal\front_news\Controller\FrontNewsController::frontPage'
+    _title: 'Front News'
+  requirements:
+    _permission: 'access content'

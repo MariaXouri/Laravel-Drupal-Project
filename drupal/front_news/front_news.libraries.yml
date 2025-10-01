@@ -1,0 +1,6 @@
+front_news:
+  js:
+    js/front_news.js: {}
+  dependencies:
+    - core/drupal
+    - core/drupalSettings

@@ -1,0 +1,8 @@
+name: 'Front News'
+type: module
+description: 'Two–column front page for News.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:node
+  - drupal:views
