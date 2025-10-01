@@ -81,6 +81,9 @@ Front-News Page (/front-news)
 
 ### Drupal Custom Model Creation
 
+Upcoming Events display 
+
+![Alt text](Laravel-Drupal.PNG)
 
 
 
