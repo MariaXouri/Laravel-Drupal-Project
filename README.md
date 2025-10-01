@@ -34,7 +34,10 @@
 
 ### Drupal Project - Part 1
 
-#### Installation Instructions
+#### Installation Instruction
+
+composer create-project drupal/recommended-project:^10.0 my_drupal_project
+
 
 #### Content Type / Vocabulary / Views
 
