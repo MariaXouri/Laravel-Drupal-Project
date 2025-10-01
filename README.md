@@ -74,7 +74,7 @@ Structue -> Views -> Add View
 ![Alt text](Views3.PNG)
 ![Alt text](Views4.PNG)
 ![Alt text](Views5.PNG)
-![Alt text](Views6.PNG)
+![Alt text](Views7.PNG)
 
 
 
