@@ -46,28 +46,36 @@ Drupal Content Type creation instructions:
 # Create a content type:
 Structure -> Content Types -> Add Content Type -> Article -> Save
 
-![Alt text](ContentTypes 1.PNG)
+![Alt text](ContentTypes1.PNG)
+![Alt text](Content2.PNG)
 
-[Image]
 
 Field managing:
 
 Structure -> Content types -> Article -> Edit 
 
-[Image]
+
+![Alt text](ManageFields.PNG)
 
 # Create vocabulary:
 
 Structure -> Taxonomy -> Add Vocabulary
 
-[Image]
-[Image]
+![Alt text](Vocabulary1.PNG)
+![Alt text](Vocabulary2.PNG)
+
 
 # Create Views
 
 Structue -> Views -> Add View 
 
-[Images]
+![Alt text](Views1.PNG)
+![Alt text](Views2.PNG)
+![Alt text](Views3.PNG)
+![Alt text](Views4.PNG)
+![Alt text](Views5.PNG)
+![Alt text](Views6.PNG)
+
 
 
 
