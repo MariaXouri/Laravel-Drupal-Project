@@ -1,8 +1,8 @@
 # Laravel-Drupal-Project
 
- Event Management System - Laravel 12 
+ # Event Management System - Laravel 12 
  
- News and Events Portal - Drupal (using Laravel's API)
+ # News and Events Portal - Drupal 
 
 # Laravel Pages
 Welcome Page
@@ -81,6 +81,9 @@ Structue -> Views -> Add View
 Front-News Page (/front-news)
 
 ![Alt text](front-news1.PNG)
+
+
+# Drupal Custom Model Creation
 
 
 
